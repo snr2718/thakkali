@@ -1,0 +1,10 @@
+{
+  "duration":25,
+  "period": 100,
+  "notification_sound":"/usr/share/sounds/freedesktop/stereo/complete.oga",
+  "notification_msg": {
+    "title": "Thakkali",
+    "message": "Timer Done"
+  }
+}
+

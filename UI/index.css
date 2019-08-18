@@ -1,0 +1,22 @@
+.activeRgn {
+  height:300px;
+  width:600px;
+  margin:5%;
+  background-color:red;
+  text-align:center
+}
+.clockRgn {
+  width: 200px;
+  margin:100px;
+  display:inline-block;
+  text-align:center;
+}
+#timeDisplay {
+  background-color: cyan;
+  width: 60px;
+  display:inline-block;
+  text-align: center;
+}
+body{
+  background-color: green;
+}

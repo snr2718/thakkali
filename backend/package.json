@@ -1,0 +1,19 @@
+{
+  "name": "thakkali",
+  "version": "1.0.0",
+  "description": "A pomodoro timer app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "node-notifier": "^5.4.0",
+    "play-sound": "^1.1.3"
+  }
+}
