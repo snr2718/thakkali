@@ -13,7 +13,7 @@
     "cors": "^2.8.5",
     "debug": "^4.1.1",
     "express": "^4.17.3",
-    "node-notifier": "^5.4.0",
+    "node-notifier": "^8.0.1",
     "play-sound": "^1.1.3"
   }
 }
